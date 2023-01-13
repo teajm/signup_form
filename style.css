@@ -1,0 +1,8 @@
+body{
+    display:flex;
+}
+#sidebar{
+    padding-right:540px;
+    height : 100vh;
+    background: url(./images/filippo-bortolotto-QeVi91E53wc-unsplash.jpg);
+}
