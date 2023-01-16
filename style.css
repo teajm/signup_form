@@ -82,8 +82,13 @@ width:200px;
 margin-left:20px;
 margin-bottom:2em;
 }
+button:hover{
+    transition:.5s;
+    filter: brightness(175%);
+}
 .login{
     margin-left:20px;
+
     display:flex;
     flex-direction: row;
     align-items: center;
