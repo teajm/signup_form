@@ -83,6 +83,7 @@ margin-left:20px;
 margin-bottom:2em;
 }
 .login{
+    margin-left:20px;
     display:flex;
     flex-direction: row;
     align-items: center;
